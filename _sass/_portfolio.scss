@@ -93,6 +93,27 @@
   line-height: 1.5;
 }
 
+.card-demonstrates {
+  margin: 0.75rem 0 0;
+  font-size: 0.875rem;
+  color: #424a53;
+}
+
+.card-badges {
+  margin-bottom: 0.5rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  border: 1px solid #d0d7de;
+  background: #f6f8fa;
+  color: #57606a;
+}
+
 /* ─────────────────────────────────────────────────────────
    Hero header polish (home page)
    ───────────────────────────────────────────────────────── */
@@ -110,6 +131,12 @@
   font-size: 1.1rem;
   color: #57606a;
   margin: 0 0 0.5rem;
+}
+
+.hero-intro .value-line {
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+  color: #424a53;
 }
 
 .hero-intro .location {
