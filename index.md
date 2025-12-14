@@ -11,8 +11,8 @@ title: Home
   <p class="location">Auburn, NSW · Sydney</p>
 
   <ul class="contact-links">
-    <li>📧 <a href="mailto:alexanderculic@gmail.com">alexanderculic@gmail.com</a></li>
-    <li>📞 0488 682 877</li>
+    <li>📧 <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+    <li>📞 0400 000 000</li>
     <li><a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a></li>
     <li><a href="https://github.com/mracul">GitHub</a></li>
   </ul>
