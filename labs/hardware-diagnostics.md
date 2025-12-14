@@ -1,4 +1,10 @@
-# Hardware Diagnostics Lab (Guide)
+---
+layout: default
+title: Hardware Diagnostics Lab
+permalink: /labs/hardware-diagnostics
+---
+
+# Hardware Diagnostics Lab
 
 Use this outline to capture how you isolated peripheral/port issues. Keep it observational and entry-level.
 

@@ -1,4 +1,10 @@
-# OS Troubleshooting Lab (Guide)
+---
+layout: default
+title: OS Troubleshooting Lab
+permalink: /labs/os-troubleshooting
+---
+
+# OS Troubleshooting Lab
 
 Use this to frame a simple performance/startup investigation without writing a tutorial.
 
