@@ -9,19 +9,13 @@ title: Home
   <p class="subtitle"><strong>Entry-Level IT Support / Service Desk Technician</strong></p>
   <p class="location">Auburn, NSW · Sydney</p>
 
-  <p class="contact-row">
-    📧 <a href="mailto:alexanderculic@gmail.com">alexanderculic@gmail.com</a> · 📞 0488 682 877<br>
-    <a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a> · <a href="https://github.com/mracul">GitHub</a>
-  </p>
+  <ul class="contact-links">
+    <li>📧 <a href="mailto:alexanderculic@gmail.com">alexanderculic@gmail.com</a></li>
+    <li>📞 0488 682 877</li>
+    <li><a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a></li>
+    <li><a href="https://github.com/mracul">GitHub</a></li>
+  </ul>
 </div>
-
----
-
-## Overview
-
-I’m an aspiring IT Support professional transitioning from high-volume operations environments into Service Desk and Desktop Support roles.
-
-I bring a strong troubleshooting mindset, clear documentation habits, and hands-on technical foundations backed by **68 UOC of Computer Science at UNSW**, active **CompTIA A+ study**, and practical home-lab experience. This site documents how I approach incidents, user support, and system issues in a structured, ITIL-aligned way.
 
 ---
 
@@ -33,16 +27,6 @@ I bring a strong troubleshooting mindset, clear documentation habits, and hands-
   <li><a href="/playbooks/">Troubleshooting Playbooks</a></li>
   <li><a href="/about/">About & Background</a></li>
 </ul>
-
----
-
-## Snapshot
-
-- 4+ years in fast-paced operations with accuracy-critical workflows  
-- **UNSW Computer Science — 68 UOC completed** (data systems, algorithms, software engineering)  
-- Studying **CompTIA A+**  
-- Practical exposure to **ITIL concepts** (incident, problem, change)  
-- Strong written documentation and user-focused communication  
 
 ---
 
@@ -60,6 +44,9 @@ I bring a strong troubleshooting mindset, clear documentation habits, and hands-
       Real-world warehouse RF scanner and system outage analysis, including impact assessment,
       ITIL-aligned handling, and preventative recommendations.
     </p>
+    <div class="card-cta">
+      <a href="/projects/itil-incident-case-study">Read case study</a>
+    </div>
   </div>
 </div>
 
@@ -73,10 +60,31 @@ I bring a strong troubleshooting mindset, clear documentation habits, and hands-
       Service Desk-style lab covering AD users, DNS basics, common support tickets,
       and clear resolution documentation.
     </p>
+    <div class="card-cta">
+      <a href="/labs/windows-ad-lab">View lab</a>
+    </div>
   </div>
 </div>
 
 </div>
+
+---
+
+## Snapshot
+
+- 4+ years in fast-paced operations with accuracy-critical workflows  
+- **UNSW Computer Science — 68 UOC completed** (data systems, algorithms, software engineering)  
+- Studying **CompTIA A+**  
+- Practical exposure to **ITIL concepts** (incident, problem, change)  
+- Strong written documentation and user-focused communication  
+
+---
+
+## Overview
+
+I’m an aspiring IT Support professional transitioning from high-volume operations environments into Service Desk and Desktop Support roles.
+
+I bring a strong troubleshooting mindset, clear documentation habits, and hands-on technical foundations backed by **68 UOC of Computer Science at UNSW**, active **CompTIA A+ study**, and practical home-lab experience. This site documents how I approach incidents, user support, and system issues in a structured, ITIL-aligned way.
 
 ---
 
