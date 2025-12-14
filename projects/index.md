@@ -13,9 +13,6 @@ Real-world scenarios and documentation samples — designed to demonstrate readi
 <div class="card">
   <div class="card-image card-image--blue">🎫</div>
   <div class="card-body">
-    <div class="card-badges">
-      <span class="badge">Planned</span>
-    </div>
     <h3 class="card-title"><a href="/projects/service-desk-ticket-lifecycle/">Service Desk Ticket Lifecycle</a></h3>
     <p class="card-text">ITSM-style tickets demonstrating intake, categorisation, prioritisation, troubleshooting, escalation, and closure.</p>
     <p class="card-demonstrates"><em>Demonstrates ticket handling and documentation discipline.</em></p>

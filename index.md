@@ -31,6 +31,17 @@ title: Home
 
 ---
 
+## Snapshot
+
+- Service Desk–focused support: ticket intake, prioritisation, troubleshooting, escalation, and clean closure notes  
+- Networking fundamentals applied to support: TCP/IP, DNS, DHCP, VPN, wired & wireless fault isolation  
+- ITIL-aligned incident handling: impact and urgency assessment, user communication, and escalation awareness  
+- 4+ years in fast-paced operational environments requiring accuracy, documentation, and time-critical issue handling  
+- **UNSW Computer Science — 68 UOC completed** (data systems, algorithms, software engineering)  
+- Currently building practical projects alongside **CompTIA A+** and **ITIL practice** study  
+
+---
+
 ## Featured Projects
 
 <div class="card-grid">
@@ -38,9 +49,6 @@ title: Home
 <div class="card">
   <div class="card-image card-image--blue">🎫</div>
   <div class="card-body">
-    <div class="card-badges">
-      <span class="badge">Planned</span>
-    </div>
     <h3 class="card-title">
       <a href="/projects/service-desk-ticket-lifecycle/">Service Desk Ticket Lifecycle Project</a>
     </h3>
@@ -96,44 +104,11 @@ title: Home
 
 ---
 
-## Supporting Labs
+## About This Portfolio
 
-<ul>
-  <li><a href="/labs/windows-ad-lab">Windows & Active Directory Home Lab</a> — AD users/groups, basic DNS concepts, common support workflows.</li>
-  <li><a href="/labs/hardware-diagnostics">Hardware Diagnostics Lab</a> — practical endpoint triage and hardware fault isolation.</li>
-  <li><a href="/labs/os-troubleshooting">OS Troubleshooting Lab</a> — structured approach to common Windows support issues.</li>
-</ul>
+This portfolio is organised around **real support outputs** — projects, tickets, playbooks, and incident write-ups — designed to show readiness for ticket-driven environments (including MSP-style support).
 
----
-
-## Snapshot
-
-- Service Desk–focused support: ticket intake, prioritisation, troubleshooting, escalation, and clean closure notes  
-- Networking fundamentals applied to support: TCP/IP, DNS, DHCP, VPN, wired & wireless fault isolation  
-- ITIL-aligned incident handling: impact and urgency assessment, user communication, and escalation awareness  
-- 4+ years in fast-paced operational environments requiring accuracy, documentation, and time-critical issue handling  
-- **UNSW Computer Science — 68 UOC completed** (data systems, algorithms, software engineering)  
-- Currently building practical projects alongside **CompTIA A+** and **ITIL practice** study  
-
----
-
-## Overview
-
-I'm transitioning from high-volume operations environments into entry-level IT Support / Service Desk roles.
-
-This portfolio is organised around **real support outputs**: projects, tickets, playbooks, and incident write-ups — designed to show readiness for ticket-driven environments (including MSP-style support).
-
----
-
-## What You'll Find Here
-
-- **Projects** that showcase core IT Support requirements (ticket handling, incident management, networking troubleshooting)  
-- **Labs** that provide hands-on technical evidence (Windows/AD, OS, hardware, networking)  
-- **Playbooks / KB notes** written in a professional, reusable style (clear steps, escalation criteria)  
-
----
-
-*This portfolio is designed for hiring managers and MSPs evaluating readiness for entry-level IT support roles.*
+*Built for hiring managers and MSPs evaluating readiness for entry-level IT support roles.*
 
 ---
 
